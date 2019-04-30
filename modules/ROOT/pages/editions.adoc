@@ -1,0 +1,6 @@
+= Editions
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+In addition to the standard Anypoint Platform, MuleSoft offers specialized editions.

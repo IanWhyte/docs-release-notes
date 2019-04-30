@@ -1,0 +1,7 @@
+= Features Being Retired
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+These features are still being supported, and patches are released, but these features are not available to new customers.
+These features have been replaced with newer versions. 

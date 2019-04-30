@@ -1,0 +1,6 @@
+= Management Center
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+These features are available in the Management Center.
